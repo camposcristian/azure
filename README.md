@@ -1,4 +1,4 @@
-# azure
+<img src="http://api.alebanzas.com.ar/azurelog?r=utnbsas" style="width: 300px;" />
 
 http://yo-uso-azure.com/concurso-yo-uso-azure/
 
@@ -18,9 +18,9 @@ o
 5. Listo, tenés Azure!
 
 Podés hacer fork del repositorio, modificar el html a tu gusto y deployarlo de vuelta para generar más visitas, pero no te olvides de poner el tracking pixel para que se cuenten los votos:
-
+```
 <img src="http://api.alebanzas.com.ar/azurelog?r=utnbsas" style="width: 300px;" />
-
+```
 
 
 
